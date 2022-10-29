@@ -1,0 +1,19 @@
+{
+  "name": "iptrackergit-new",
+  "version": "1.0.0",
+  "description": "IPTracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaswaGit/IPTrackerPublic.git"
+  },
+  "author": "Yaswa Hemanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaswaGit/IPTrackerPublic/issues"
+  },
+  "homepage": "https://github.com/YaswaGit/IPTrackerPublic#readme"
+}
